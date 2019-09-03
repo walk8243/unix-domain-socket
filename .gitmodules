@@ -1,0 +1,6 @@
+[submodule "server"]
+	path = server
+	url = git@github.com:walk8243/unix-domain-socket-server.git
+[submodule "client"]
+	path = client
+	url = git@github.com:walk8243/unix-domain-socket-client.git
